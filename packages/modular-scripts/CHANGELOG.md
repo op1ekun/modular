@@ -1,5 +1,13 @@
 # modular-scripts
 
+## 0.9.11
+
+### Patch Changes
+
+- 9f9a332: Update create-react-app from 4.0.1 to 4.0.2
+- 74ab5d2: Suggest installing @finos/perspective-webpack-plugin if
+  @finos/perspective is available.
+
 ## 0.9.10
 
 ### Patch Changes
